@@ -1,2 +1,2 @@
 # instituto-repo
-Repositório InstitutoAdelina
+Repositório Instituto Adelina
