@@ -146,6 +146,18 @@ section.resume-section .resume-item .resume-date {
     color: #775CA7!important
 }
 
+.text-primary-2 {
+    color: #FFFFFF!important
+}
+
+.text-purple-dark {
+    color: #633da8!important
+}
+
+.text-gray {
+    color: #868e96!important
+}
+
 a {
     color: #775CA7
 }
