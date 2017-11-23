@@ -1,2 +1,1 @@
-# instituto-repo
-Repositório Instituto Adelina
+# Repositório - Instituto Adelina
