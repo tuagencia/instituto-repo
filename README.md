@@ -1,4 +1,13 @@
 <p align="center">
+  <a href="https://institutoadelina.com.br/">
+    <img src="https://institutoadelina.com.br/img/kv.jpg" alt="" width=72 height=72>
+  </a>
+
+  <h3 align="center">Instituto Adelina</h3>
+
+</p>
+
+<p align="center">
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
   </a>
@@ -18,7 +27,6 @@
     <a href="https://blog.getbootstrap.com/">Blog</a>
   </p>
 </p>
-
 <br>
 
 ## Table of contents
